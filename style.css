@@ -9,3 +9,24 @@
 #indent {
     text-indent: 2%;
 }
+
+.transparentbox {
+   opacity: 0.6;
+   margin: 30px;
+   border: 2px solid black;
+   background-color: #ffffff;
+   filter: opacity(60);
+}
+
+div.transparentbox p {
+    margin: 5%;
+    color: black;
+}
+.background {
+  background:url(cupofpencils-debby-hudson-unsplash.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+
+
+}
