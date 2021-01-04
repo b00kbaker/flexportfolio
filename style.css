@@ -22,7 +22,7 @@ div.transparentbox p {
     margin: 5%;
     color: black; */
 /* } */
-#background {
+#contactbackground {
   background:url(cupofpencils-debby-hudson-unsplash.jpg);
   background-repeat: no-repeat;
   background-position: center;
@@ -30,4 +30,12 @@ div.transparentbox p {
   background-size: cover;
 
 
+}
+
+#portfoliobackground {
+    background:url(splatteredpaintbrushes-rhondak-native-florida-folk-artist-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
 }
