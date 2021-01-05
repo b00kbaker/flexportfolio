@@ -1,27 +1,30 @@
-
 .font {
-    font-family:'Cairo', sans-serif,'Times New Roman';
-    color: black;
+  font-family: "Cairo", sans-serif, "Times New Roman";
+  color: black;
 }
 
 #indent {
-    text-indent: 2%;
+  text-indent: 2%;
 }
 
-
-
 #contactbackground {
-  background:url(cupofpencils-debby-hudson-unsplash.jpg);
+  background: url(cupofpencils-debby-hudson-unsplash.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-attachment: fixed;
   background-size: cover;
-
-
 }
 
 #portfoliobackground {
-    background:url(splatteredpaintbrushes-rhondak-native-florida-folk-artist-unsplash.jpg);
+  background: url(splatteredpaintbrushes-rhondak-native-florida-folk-artist-unsplash.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+#aboutbackground {
+    background: url(border-pencils-jess-bailey-unsplash.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
