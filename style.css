@@ -30,3 +30,11 @@
     background-attachment: fixed;
     background-size: cover;
 }
+
+.hide {
+    display:none;
+}
+
+@media (min-width:768px){
+    .hide {display:block}
+}
