@@ -3,9 +3,18 @@
   color: black;
 }
 
+#lgFont {
+  font-size: 25px;;
+}
+
 #indent {
   text-indent: 2%;
 }
+
+.left {
+  text-indent: 50%;
+}
+
 
 #contactbackground {
   background: url(cupofpencils-debby-hudson-unsplash.jpg);
